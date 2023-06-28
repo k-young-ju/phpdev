@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+}
+.mem_info{
+    text-align: right;
+    margin-right: 20px;
+}
+.topmenu{
+    
+    width: 100%;
+    display: inline-flex;
+}
+.logo{
+    margin-left: 20px;
+    margin-right: 100px;
+    
+}
+.logoimg{
+    width: 100px;
+    height: 80px;
+}
+.menu{
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
