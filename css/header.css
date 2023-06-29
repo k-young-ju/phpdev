@@ -24,3 +24,16 @@ a{
     margin-left: 100px;
     margin-right: 100px;
 }
+           
+.dropContent{
+    position: absolute;
+    display: none;
+    width: 100px;
+    padding: 5px;
+    border: 1px solid black;
+    
+}
+.dropmenu{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
