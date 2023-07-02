@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>00r건설</title>
+    <title>(주)페더윙</title>
     <link href="/phpdev/img/logo.ico" rel="shortcut icon" type="image/x-icon">
     <link rel="stylesheet" href="/phpdev/css/header.css">
 </head>
